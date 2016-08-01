@@ -1,9 +1,9 @@
 # computer-vision
-
+simple sample
 <html>
 <body>
-<p> (Click picture to watch the video) </p>
-<h4>Real-time tracking without color</h4>
+<p> (Click picture to watch the video clips) </p>
+<h4>Real-time tracking</h4>
 [![](https://img.youtube.com/vi/P2A2moStsyw/0.jpg)](https://www.youtube.com/watch?v=P2A2moStsyw)
 
 <h4>Real-time tracking in real-world</h4>
