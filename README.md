@@ -18,8 +18,6 @@
 <h6>Finding new moving objects with affine transformation</h6>
 [![](https://img.youtube.com/vi/fs6yGBt9l-k/0.jpg)](https://www.youtube.com/watch?v=fs6yGBt9l-k)
 
- 
-<h4><a href="https://www.youtube.com/channel/UCN41pSoZXq7fIFMYi1ULTZQ"> More on YouTube </a></h4>
 
 
 </body>
