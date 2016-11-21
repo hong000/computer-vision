@@ -2,8 +2,9 @@
 <html>
 <body>
 <h4><a href="http://csis.pace.edu/robotlab/videos.html"> Lab Project</a></h4>
+<h4><a href="https://www.youtube.com/channel/UCN41pSoZXq7fIFMYi1ULTZQ"> Other demos on YouTube</a></h4>
 
-<h4>Exercise Examples</h4>
+<h4>Some Examples</h4>
 
 <p> (Click picture to watch the video clips) </p>
 <h6>Real-time tracking</h6>
@@ -18,7 +19,7 @@
 <h6>Finding new moving objects with affine transformation</h6>
 [![](https://img.youtube.com/vi/fs6yGBt9l-k/0.jpg)](https://www.youtube.com/watch?v=fs6yGBt9l-k)
 
-
+<h6><a href="https://www.youtube.com/channel/UCN41pSoZXq7fIFMYi1ULTZQ">Find more on YouTube</a></h6>
 
 </body>
 </html>
